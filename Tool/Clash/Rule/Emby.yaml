@@ -7,9 +7,9 @@ payload:
   - DOMAIN-SUFFIX,bangumi.ca
   - DOMAIN-SUFFIX,yuanshen.help
   - DOMAIN-SUFFIX,embys.bbroot.com
-  - DOMAIN-SUFFIX,gy.meowfly.de
+  - DOMAIN-SUFFIX,meowfly.de
   - DOMAIN-SUFFIX,v2go.cc.cd
-
+  - DOMAIN-SUFFIX,bbroot.com
 
   # Emby 官方域名
   - DOMAIN-SUFFIX,emby.media
